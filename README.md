@@ -1,2 +1,0 @@
-# Heartpattern
-python
